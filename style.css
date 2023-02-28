@@ -1,0 +1,27 @@
+.bg-stadium-img {
+  background-image: url(https://images.unsplash.com/photo-1504450758481-7338eba7524a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80);
+  background-size: cover;
+}
+
+.bg-scoreboard {
+  background-color: rgba(21, 43, 244, 0.43);
+  border: solid rgba(122, 149, 248, 0.84) 2px;
+}
+
+.bg-scorecards {
+  background-color: rgba(79, 106, 174, 0.48);
+  border: solid rgba(94, 255, 255, 0.69) 2px;
+}
+
+.height-card {
+  height: 200px;
+  width: 200px;
+}
+
+.btn-bg {
+  background-color: rgba(21, 43, 244, 0.43);
+}
+
+.fs-numbers {
+  font-size: 95px;
+}
